@@ -3,6 +3,9 @@
 *.jpeg
 *.png
 
+checkpoints/
+wandb/
 pretrained/
 .venv
 .vscode
+__pycache__
